@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.menu-list{
+    margin-left: auto;
+}
+
+.menu-item{
+     text-decoration: none;
+     color: black;
+     font-size: 17px;
+     font-weight: 450;
+     padding:10px;
+}
+
+.menu-item:hover{
+    color: rgb(66, 64, 64);
+}
