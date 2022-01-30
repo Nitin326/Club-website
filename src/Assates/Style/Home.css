@@ -24,4 +24,27 @@
 
 .typing-text{
     font-family: 'Roboto Slab', serif;
+    font-size:50px;
+}
+
+@media only screen and (max-width: 600px) {
+    .typing-text {
+      font-size:5px;
+    }
+  }
+
+/* About Us Video */
+.video{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.content{
+    display: inline;
+    font-size: 17px;
+}
+
+.video-frame{
+    width: 380px;
+    height: 280px;
 }
